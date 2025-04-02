@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main Class",
+            "request": "launch",
+            "mainClass": "src.Main",
+            "projectName": "usercode_28b51d67"
+        }
+    ]
+}
